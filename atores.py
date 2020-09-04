@@ -6,6 +6,7 @@ import math
 DESTRUIDO = 'Destruido'
 ATIVO = 'Ativo'
 
+#teste
 
 class Ator():
     _caracter_ativo = 'A'
